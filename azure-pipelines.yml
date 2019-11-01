@@ -5,7 +5,7 @@ pool:
     
 variables:
   buiildConfiguration: 'Release'
-  wwwrootDir: 'Tailspin.SPaceGame.Web/wwwroot'
+  wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSdkVersion: '2.1.505'
 
 steps:
