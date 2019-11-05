@@ -3,8 +3,8 @@
     public class ProfileViewModel
     {
         // The player profile.
-        public Profile Profile;
+        private Profile Profile { get; set; }
         // The player's rank according to the active filter.
-        public string Rank;
+        private string Rank { get; set; }
     }
 }
